@@ -14,7 +14,8 @@
 
 * Layout 1728 :ballot_box_with_check:	
   
-  ![Captura de tela 2023-08-17 184519](https://github.com/gyselle-marques/AluraBooks/assets/119114313/85e33acf-52d0-4e97-8957-496227ffdcf5)
+  ![Captura de tela 2023-08-17 191636](https://github.com/gyselle-marques/AluraBooks/assets/119114313/b16b850a-5a85-45c4-bd0b-a14f2ca289e5)
+
 
 
   
